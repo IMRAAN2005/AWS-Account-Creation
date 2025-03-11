@@ -32,14 +32,18 @@ Review and Create IAM User
 ### NAME: SHAIK MAHAMMAD IMRAAN
 
 1. Root user:
-![image](Op1-cc2.png)
+![image](https://github.com/user-attachments/assets/50dd27d9-fc15-45b4-be3f-cfece14eb32c)
 
-![image](Op2-cc2.png)
+
+![image](https://github.com/user-attachments/assets/70abca33-d4ac-4b32-8977-0844267ecd89)
+
 
 3. IAM user:
-![image](Op3-cc2.png)
+![image](https://github.com/user-attachments/assets/ae623b46-c80f-4003-952e-e8fbd6ec75e4)
 
-![image](Op4-cc2.png)
+
+![image](https://github.com/user-attachments/assets/45014b38-393a-415b-939e-cda804fa7b7a)
+
 
 ## RESULT:
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
