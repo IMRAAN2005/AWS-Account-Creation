@@ -31,18 +31,22 @@ Review and Create IAM User
 ### REG NUMBER: 212223100053
 ### NAME: SHAIK MAHAMMAD IMRAAN
 
-1. Root user:
-![image](https://github.com/user-attachments/assets/50dd27d9-fc15-45b4-be3f-cfece14eb32c)
 
 
-![image](https://github.com/user-attachments/assets/70abca33-d4ac-4b32-8977-0844267ecd89)
 
 
-3. IAM user:
-![image](https://github.com/user-attachments/assets/ae623b46-c80f-4003-952e-e8fbd6ec75e4)
 
 
-![image](https://github.com/user-attachments/assets/45014b38-393a-415b-939e-cda804fa7b7a)
+
+## IAM user:
+
+![Screenshot 2025-04-08 212251](https://github.com/user-attachments/assets/fb98ec6d-338d-47f3-8f42-f0c72e9c71e5)
+
+![Screenshot 2025-04-08 212342](https://github.com/user-attachments/assets/93d24cdc-d590-4733-994b-bebf2f264acd)
+
+![Screenshot 2025-04-08 211904](https://github.com/user-attachments/assets/f94e7f9e-4003-46eb-b23a-95a5f2ccb725)
+
+
 
 
 ## RESULT:
